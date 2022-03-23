@@ -1,6 +1,6 @@
 {
   "name": "vue-unwrap-element",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/vue-unwrap-element.js",
   "module": "vue-unwrap-element.mjs",
@@ -22,5 +22,9 @@
   },
   "dependencies": {
     "unwrap-element": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dryymoon/vue-unwrap-element.git"
   }
 }
