@@ -2,6 +2,8 @@ import unwrapElement from 'unwrap-element';
 
 let installed = false;
 
+export default { install };
+
 export function install(Vue) {
   if (installed) return;
   installed = true;

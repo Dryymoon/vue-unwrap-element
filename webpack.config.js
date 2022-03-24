@@ -5,8 +5,10 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, "dist"),
     filename: "vue-unwrap-element.js",
-    library: 'vueUnwrapElement',
-    libraryType: "umd",
+    library: {
+      name: 'vueUnwrapElement',
+      type: "umd"
+    },
     globalObject: 'this',
   },
   module: {
