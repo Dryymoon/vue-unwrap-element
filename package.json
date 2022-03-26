@@ -1,6 +1,6 @@
 {
   "name": "vue-unwrap-element",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "entry": "vue-unwrap-element.js",
   "main": "dist/vue-unwrap-element.js",
