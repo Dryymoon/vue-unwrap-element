@@ -1,6 +1,6 @@
 {
   "name": "vue-unwrap-element",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "./dist/cjs/index.js",
   "module": "./dist/mjs/index.js",
@@ -20,7 +20,7 @@
   "author": "Igor Pylypenko",
   "license": "ISC",
   "dependencies": {
-    "unwrap-element": "^3.0.3"
+    "unwrap-element": "^3.0.4"
   },
   "devDependencies": {
     "@types/node": "^20.12.7",
