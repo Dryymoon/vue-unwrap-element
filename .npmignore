@@ -1,6 +1,4 @@
 node_modules
-.trash
-.babelrc
 .gitignore
 package-lock.json
 webpack.config.js
