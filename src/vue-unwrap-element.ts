@@ -51,7 +51,7 @@ export const install: PluginFunction<unknown> = Vue => {
 
 const plugin: PluginObject<unknown> = {
   install,
-  directive: {
+  directives: {
     'unwrap-element': unwrapElDirective,
   },
 };
