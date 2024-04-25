@@ -1,6 +1,6 @@
 {
   "name": "vue-unwrap-element",
-  "version": "2.0.6≠",
+  "version": "2.0.6",
   "description": "",
   "main": "./dist/cjs/index.js",
   "module": "./dist/mjs/index.js",
